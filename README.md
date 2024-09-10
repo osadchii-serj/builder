@@ -11,4 +11,4 @@
 - optimus_prime - робот OptimusPrime
 
 
-![Image alt](https://github.com/osadchii-serj/factory_method/raw/main/coffee_shop/img/CoffeeShop.svg)
+![Image alt](https://github.com/osadchii-serj/builder/raw/main/optimus_prime/img/optimus_prime.svg)
