@@ -13,5 +13,6 @@ def client_code(robot: Robot):
     robot.finish_assembly()
 
 
-optimus = OptimusPrime()
-client_code(optimus)
+if __name__ == "__main__":
+    optimus = OptimusPrime()
+    client_code(optimus)
